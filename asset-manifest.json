@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/szekim/monster-rolodex.git/static/css/main.6298b421.chunk.css",
+    "main.js": "/szekim/monster-rolodex.git/static/js/main.dc38f44b.chunk.js",
+    "main.js.map": "/szekim/monster-rolodex.git/static/js/main.dc38f44b.chunk.js.map",
+    "runtime-main.js": "/szekim/monster-rolodex.git/static/js/runtime-main.551595a1.js",
+    "runtime-main.js.map": "/szekim/monster-rolodex.git/static/js/runtime-main.551595a1.js.map",
+    "static/js/2.9fc7c5d0.chunk.js": "/szekim/monster-rolodex.git/static/js/2.9fc7c5d0.chunk.js",
+    "static/js/2.9fc7c5d0.chunk.js.map": "/szekim/monster-rolodex.git/static/js/2.9fc7c5d0.chunk.js.map",
+    "index.html": "/szekim/monster-rolodex.git/index.html",
+    "precache-manifest.74afee71d1e5177c1691da6c0640cd1f.js": "/szekim/monster-rolodex.git/precache-manifest.74afee71d1e5177c1691da6c0640cd1f.js",
+    "service-worker.js": "/szekim/monster-rolodex.git/service-worker.js",
+    "static/css/main.6298b421.chunk.css.map": "/szekim/monster-rolodex.git/static/css/main.6298b421.chunk.css.map",
+    "static/js/2.9fc7c5d0.chunk.js.LICENSE.txt": "/szekim/monster-rolodex.git/static/js/2.9fc7c5d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.551595a1.js",
+    "static/js/2.9fc7c5d0.chunk.js",
+    "static/css/main.6298b421.chunk.css",
+    "static/js/main.dc38f44b.chunk.js"
+  ]
+}
